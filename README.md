@@ -23,13 +23,13 @@ Nos enfocamos en los siguientes ODS:
 
 ## Tabla de Organización del Equipo
 
-| ODS | Nombre | Interés del Equipo | Rol |
+| ODS | Nombre |Rol | Interés del Equipo |
 |-----|--------|-------------------|-----|
 | 4   | Pablo Firma, Junior Orlando| Líder del equipo | Innovación social, sostenibilidad |
 | 8   |Rios Villar Juan de Dios Mario | Responsable de investigación  | Responsable de investigar, analizar y sintetizar información, aplicando enfoques sostenibles en propuestas tecnológicas. |
-| 9   | Industria e Innovación | Desarrollar proyectos innovadores | Programador |
-| 11  | Ciudades Sostenibles | Mejorar la calidad de vida urbana | Diseñador |
-| 12  | Producción Responsable | Fomentar consumo sostenible | Investigador |
+| 9   | Vargas Moreno, Aldayer Pablo| programador |Programación, Análisis de datos, simulación |
+| 11  |Cajahuaman Capcha Teddy Ronaldinho  | Diseñador | Diseño de prototipos, creatividad aplicada |
+
 
 
 
