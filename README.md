@@ -4,6 +4,7 @@ Carrera de Ingeniería Informática e Industrial
 Universidad Peruana Cayetano Heredia
 
 Descripción del Equipo
+
 🌍 Descripción del Equipo
 
 Somos el Equipo 08 del curso Innovación y Desarrollo Tecnológico, conformado por estudiantes comprometidos con la creación de soluciones eficientes e innovadoras.
