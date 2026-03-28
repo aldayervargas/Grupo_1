@@ -2,3 +2,5 @@
 Carrera de Ingeniería Informática e Industrial
 
 Universidad Peruana Cayetano Heredia
+
+Descripción del Equipo
