@@ -15,11 +15,11 @@ Objetivos de Desarrollo Sostenible (ODS)
 
 Nos enfocamos en los siguientes ODS:
 
-ODS 4: Educación de Calidad
-ODS 8: Trabajo Decente y Crecimiento Económico
-ODS 9: Industria, Innovación e Infraestructura
-ODS 11: Ciudades y Comunidades Sostenibles
-ODS 12: Producción y Consumo Responsables
+- ODS 4: Educación de Calidad
+- ODS 8: Trabajo Decente y Crecimiento Económico
+- ODS 9: Industria, Innovación e Infraestructura
+- ODS 11: Ciudades y Comunidades Sostenibles
+- ODS 12: Producción y Consumo Responsables
 
 
 
